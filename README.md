@@ -1,5 +1,5 @@
 # Credit Card Fraud Detection
-Credit card fraud detection is a critical task in the field of cybersecurity and financial services. Local Outlier Factor (LOF) and Isolation Forest are two popular algorithms used for anomaly detection, including the detection of fraudulent credit card transactions. Let's explore each of these algorithms in detail and understand how they work for fraud detection:
+Credit card fraud detection is a critical task in the field of cybersecurity and financial services. Local Outlier Factor (LOF) and Isolation Forest are two popular algorithms used in this project for anomaly detection, including the detection of fraudulent credit card transactions. Let's explore each of these algorithms in detail and understand how they work for fraud detection:
 
 1. **Local Outlier Factor (LOF):**
    - LOF is a density-based anomaly detection algorithm used to identify outliers or anomalies in a dataset.
